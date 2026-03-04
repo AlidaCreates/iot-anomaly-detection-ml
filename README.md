@@ -73,7 +73,7 @@ The TON_IoT dataset was developed by the Cyber Range Lab at UNSW Canberra and co
 | 10 | conn_state | 0.036 | Connection state |
 
 ## 📁 Repository Structure
-.
+```
 ├── 📄 iot_anomaly_detection.py    # Main code
 ├── 📄 requirements.txt             # Dependencies
 ├── 📄 README.md                    # This file
@@ -83,3 +83,4 @@ The TON_IoT dataset was developed by the Cyber Range Lab at UNSW Canberra and co
 │   └── 📁 figures/
 └── 📁 models/                       # Saved models
     └── 📄 best_model_svm.pkl
+```
